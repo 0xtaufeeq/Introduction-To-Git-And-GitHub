@@ -1,1 +1,1 @@
-[Slide](./Slide1.PNG)
+<img src="./Slide1.PNG">
